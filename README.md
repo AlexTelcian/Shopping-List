@@ -1,3 +1,5 @@
 # Shopping-List
 
-<img src="image/screenshot.jpg" width="200" border="1px">
+<img src="images/screenshoot.jpg" width="200">
+<img src="images/screenshoot2.jpg" width="200">
+
